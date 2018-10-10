@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>02-Stack-And-Queue</artifactId>
+    <artifactId>02-StackAndQueue</artifactId>
 
     <name>02-Stack-And-Queue</name>
     <!-- FIXME change it to the project's website -->
